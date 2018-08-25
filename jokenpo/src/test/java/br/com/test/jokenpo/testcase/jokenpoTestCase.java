@@ -1,5 +1,10 @@
 package br.com.test.jokenpo.testcase;
 
+/**
+ * Valéria Padilha de Vargas
+ * DojoPuzzles-JoKenPo
+ */
+
 import static org.junit.Assert.assertTrue;
 import org.junit.After;
 import org.junit.Before;
