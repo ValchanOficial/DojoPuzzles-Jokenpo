@@ -1,4 +1,4 @@
-package br.com.jokenpo.testsuites;
+package br.com.test.jokenpo.testsuites;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
